@@ -4,7 +4,7 @@ Target formats and their status
  
 |Format|Description|Reader|Writer|
 |------|-----------|------|------|
-| 3GP  | 3GPP Multimedia File|||
+| 3GP  | 3GPP Multimedia File|| |
 | ASF  | Advanced Systems Format File||
 | AVI  | Audio Video Interleave File||
 | BIK  | Bink Video File||
